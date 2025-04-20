@@ -26,5 +26,6 @@ Wavelength of incident photons
 Power intensity of incident photons
 
 Seven Device Configurations: Choose one device configuration from PIN, NIP, PN, NN, FET, Ohmic, and Schottky Barrier Diode (SBD).
+
 Target Variable:
 Responsivity (A/W)
