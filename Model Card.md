@@ -12,7 +12,7 @@ The Extra Trees Regressor is an ensemble learning method based on a large number
 - **max_depth:** 18 (maximum depth of each tree)
 - **random_state:** 100 (for reproducibility)
 
-- **Implemented by:** Abdul Wahab Ayyubi
+- **Implemented by:** R. A. W. Ayyubi
 - **Developed by:** Scikit-learn contributors (https://scikit-learn.org/)
 - **Model type:** Tree-based ensemble regressor (Extra Trees Regressor)
 - **License:** MIT License
