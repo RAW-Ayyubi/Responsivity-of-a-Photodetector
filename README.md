@@ -29,3 +29,6 @@ Seven Device Configurations: Choose one device configuration from PIN, NIP, PN, 
 
 Target Variable:
 Responsivity (A/W)
+
+# Computational Resources Used
+All computations in this study were performed on a local machine running Windows 11 Pro, equipped with an Intel Core i5-1135G7 processor (4 cores, 8 threads, 2.40 GHz) and 8 GB of RAM. The code was executed using Jupyter Notebook 6.5.7 within the Anaconda Navigator 2.6.3 environment. No GPU acceleration was used during training or inference. The complete notebook, which includes dataset assembly, model training, evaluation, and plotting, takes approximately 10 minutes to execute end-to-end on this configuration.
