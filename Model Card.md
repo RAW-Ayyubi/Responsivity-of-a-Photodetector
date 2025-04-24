@@ -96,5 +96,5 @@ Feature dependence and importance plots were generated to interpret the model's 
 ```
 
 ## Model Card Contact
-For questions or support, please contact [abdulayyubi@gmail.com](mailto:abdulayyubi@gmail.com)
+For questions or support, please contact [ayyubi.qau@gmail.com](mailto:ayyubi.qau@gmail.com)
 
