@@ -15,10 +15,11 @@ The Extra Trees Regressor is an ensemble learning method based on a large number
 - **Implemented by:** R. A. W. Ayyubi
 - **Developed by:** Scikit-learn contributors (https://scikit-learn.org/)
 - **Model type:** Tree-based ensemble regressor (Extra Trees Regressor)
-- **License:** MIT License
+- **License:** Copyright 2007 - 2025, scikit-learn developers (BSD License).
 
 ### Model Sources
-- **Repository:** https://github.com/ayyubi/Responsivity-of-a-Photodetector
+- **Website:** https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html
+- **Repository (To Predict Responsivity of a Photodetector):** https://github.com/ayyubi/Responsivity-of-a-Photodetector
 
 ## Uses
 
