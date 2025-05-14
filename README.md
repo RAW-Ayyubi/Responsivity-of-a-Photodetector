@@ -32,3 +32,21 @@ Responsivity (A/W)
 
 # Computational Resources Used
 All computations in this study were performed on a local machine running Windows 11 Pro, equipped with an Intel Core i5-1135G7 processor (4 cores, 8 threads, 2.40 GHz) and 8 GB of RAM. The code was executed using Jupyter Notebook 6.5.7 within the Anaconda Navigator 2.6.3 environment. No GPU acceleration was used during training or inference. The complete notebook, which includes dataset assembly, model training, evaluation, and plotting, takes approximately 10 minutes to execute end-to-end on this configuration.
+
+## Dependencies
+
+This project uses the following open-source Python libraries and tools:
+
+- NumPy — numerical computing (BSD License)  
+- Pandas — data manipulation (BSD License)  
+- Matplotlib — plotting and visualization (PSF License)  
+- Seaborn — statistical visualization (BSD License)  
+- SciPy — scientific computing (BSD License)  
+- scikit-learn — machine learning models and tools (BSD License)  
+- XGBoost — gradient boosting models (Apache 2.0 License)  
+- LightGBM — gradient boosting framework (MIT License)  
+- CatBoost — gradient boosting on decision trees (Apache 2.0 License)  
+- Pillow (PIL) — image processing (HPND License)  
+- IPython — interactive Python support (BSD License)  
+
+All libraries retain their respective licenses. Please refer to their official documentation for full license details.
