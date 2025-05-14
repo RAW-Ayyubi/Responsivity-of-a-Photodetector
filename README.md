@@ -50,3 +50,10 @@ This project uses the following open-source Python libraries and tools:
 - IPython — interactive Python support (BSD License)  
 
 All libraries retain their respective licenses. Please refer to their official documentation for full license details.
+
+## Citation
+
+If you use this code/data, please cite it as:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15420276.svg)](https://doi.org/10.5281/zenodo.15420276)
+
