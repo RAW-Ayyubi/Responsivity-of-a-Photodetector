@@ -55,5 +55,15 @@ All libraries retain their respective licenses. Please refer to their official d
 
 If you use this code/data, please cite it as:
 
+**Article details:**
+
+Ayyubi, R.A.W., Low, M.X., Salimi, S. et al. 
+Machine learning-assisted high-throughput prediction and experimental validation of high-responsivity extreme ultraviolet detectors. 
+Nat Commun 16, 6265 (2025). https://doi.org/10.1038/s41467-025-60499-6
+
+**DOI**
+https://doi.org/10.1038/s41467-025-60499-6
+
+**Code Citation Details**
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15420276.svg)](https://doi.org/10.5281/zenodo.15420276)
 
