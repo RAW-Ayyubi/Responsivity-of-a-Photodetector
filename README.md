@@ -51,7 +51,7 @@ This project uses the following open-source Python libraries and tools:
 
 All libraries retain their respective licenses. Please refer to their official documentation for full license details.
 
-## Citation
+# Citation Deatils
 
 If you use this code/data, please cite it as:
 
